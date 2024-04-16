@@ -1,4 +1,4 @@
-# Blog
-This is a normal blog created using html and css.
+# Demo Project
+This is my demo repository.
 <br>
 Author - Heetakshi Shirgaonkar
